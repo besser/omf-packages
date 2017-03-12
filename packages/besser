@@ -1,0 +1,4 @@
+type = theme
+repository = https://github.com/besser/oh-my-fish-packages/packages/themes/besser
+maintainer = Roberto Besser <rmbesser@gmail.com>
+description = Theme with minimal base prompt, compact git status, and useful visual indicators for common scenarios.
