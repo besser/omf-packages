@@ -1,1 +1,4 @@
-
+type = theme
+repository = https://github.com/besser/omf-theme-besser2l
+maintainer = Roberto Besser <rmbesser@gmail.com>
+description = Theme with minimal base 2 lines prompt, compact git status, and useful visual indicators for common scenarios.
